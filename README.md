@@ -6,6 +6,6 @@ Use time series techniques to forecast temperature 100 years into the future.
 This should allow to conclusively establish global warming and predict the magnitude of temperature increase due to it with reasonable accuracy.
 
 # Attachments:
-Project Report
-R Code
-Dataset
+Project Report  
+R Code  
+Dataset  
